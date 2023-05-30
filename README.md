@@ -7,4 +7,4 @@ Extract the data into the data folder.
 
 
 I have set up the project to ignore all csv and zip files so that they won't be added to the github
-They are normally do big so github blocks them
+They are normally to big so github blocks them
