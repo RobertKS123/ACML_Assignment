@@ -18,6 +18,7 @@ One idea I have that I am struggling to implement is to combine the sender-recei
 
 Notebooks:
 Data Visulization 
+Logistic Regression
 Desision Tree
 Random Forest
 Deep Neural Network
