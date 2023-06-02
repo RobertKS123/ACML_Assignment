@@ -15,3 +15,23 @@ I haven't done too much as of yet, but I think we should all agree on a few thin
 If we look at the correlation matrix we can see that their is a significant correlation between these two features and the target.
 
 One idea I have that I am struggling to implement is to combine the sender-receiver pairs into a numerical value that can uniquely idebtify pairs of transactors - whether they are the sender or the receiver.
+
+Notebooks:
+Data Visulization 
+Desision Tree
+Random Forest
+Deep Neural Network
+
+Each NoteBook:
+Import Data 
+Pre-prosses data
+random data spilt
+even data split
+Add good comments
+Try tuning hyper parameters document any tuning you do
+Print and compare results:
+ - Confusion Matrix
+ - F1 - metrics 
+ - Record the loss through each epoch and graph
+ - print the best weight matrix
+
